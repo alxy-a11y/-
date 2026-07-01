@@ -74,7 +74,11 @@ importers:
         version: 8.62.1(eslint@9.39.4(jiti@2.7.0))(typescript@6.0.0-dev.20250807)
       '@vitejs/plugin-vue':
         specifier: ^6.0.7
+<<<<<<< HEAD
         version: 6.0.7(vite@7.3.6(@types/node@26.1.0)(jiti@2.7.0)(lightningcss@1.32.0)(terser@5.48.0)(yaml@2.9.0))(vue@3.5.39(typescript@6.0.0-dev.20250807))
+=======
+        version: 6.0.7(vite@7.3.6(@types/node@26.0.1)(jiti@2.7.0)(lightningcss@1.32.0)(terser@5.48.0)(yaml@2.9.0))(vue@3.5.39(typescript@6.0.0-dev.20250807))
+>>>>>>> 9ebad23ce5df5920fcb8d5039ba57f5131b288f6
       autoprefixer:
         specifier: ^10.5.2
         version: 10.5.2(postcss@8.5.16)
@@ -122,7 +126,11 @@ importers:
         version: 3.9.4
       ts-node:
         specifier: ^10.9.2
+<<<<<<< HEAD
         version: 10.9.2(@types/node@26.1.0)(typescript@6.0.0-dev.20250807)
+=======
+        version: 10.9.2(@types/node@26.0.1)(typescript@6.0.0-dev.20250807)
+>>>>>>> 9ebad23ce5df5920fcb8d5039ba57f5131b288f6
       tslib:
         specifier: ^2.8.1
         version: 2.8.1
@@ -140,7 +148,11 @@ importers:
         version: 29.2.0(@babel/parser@7.29.7)(vue@3.5.39(typescript@6.0.0-dev.20250807))
       vite:
         specifier: ^7.3.6
+<<<<<<< HEAD
         version: 7.3.6(@types/node@26.1.0)(jiti@2.7.0)(lightningcss@1.32.0)(terser@5.48.0)(yaml@2.9.0)
+=======
+        version: 7.3.6(@types/node@26.0.1)(jiti@2.7.0)(lightningcss@1.32.0)(terser@5.48.0)(yaml@2.9.0)
+>>>>>>> 9ebad23ce5df5920fcb8d5039ba57f5131b288f6
       vite-plugin-external:
         specifier: ^6.2.2
         version: 6.2.2
@@ -737,8 +749,13 @@ packages:
   '@types/ms@2.1.0':
     resolution: {integrity: sha512-GsCCIZDE/p3i96vtEqx+7dBUGXrc7zeSK3wwPHIaRThS+9OhWIXRqzs4d6k1SVU8g91DrNRWxWUGhp5KXQb2VA==}
 
+<<<<<<< HEAD
   '@types/node@26.1.0':
     resolution: {integrity: sha512-O0A1G3xPGy4w7AgQdAQYUlQ+BKk2Oovw8eRpofyp5KdBZULnbe+WqaOVNrm705SHphCiG4XHsACrSmPu1f+Kgw==}
+=======
+  '@types/node@26.0.1':
+    resolution: {integrity: sha512-fc3KiUoBt6kie0N9bIW3E47vZsuaMf0PM2AaUpLCLT0s/LvX1nxAim6Fc049cNxODPpGm6qRAuUOB86SkRuPQw==}
+>>>>>>> 9ebad23ce5df5920fcb8d5039ba57f5131b288f6
 
   '@types/showdown@2.0.6':
     resolution: {integrity: sha512-pTvD/0CIeqe4x23+YJWlX2gArHa8G0J0Oh6GKaVXV7TAeickpkkZiNOgFcFcmLQ5lB/K0qBJL1FtRYltBfbGCQ==}
@@ -2901,7 +2918,11 @@ snapshots:
   '@types/fs-extra@11.0.4':
     dependencies:
       '@types/jsonfile': 6.1.4
+<<<<<<< HEAD
       '@types/node': 26.1.0
+=======
+      '@types/node': 26.0.1
+>>>>>>> 9ebad23ce5df5920fcb8d5039ba57f5131b288f6
 
   '@types/jquery@3.5.34':
     dependencies:
@@ -2915,7 +2936,11 @@ snapshots:
 
   '@types/jsonfile@6.1.4':
     dependencies:
+<<<<<<< HEAD
       '@types/node': 26.1.0
+=======
+      '@types/node': 26.0.1
+>>>>>>> 9ebad23ce5df5920fcb8d5039ba57f5131b288f6
 
   '@types/lodash@4.17.24': {}
 
@@ -2925,7 +2950,11 @@ snapshots:
 
   '@types/ms@2.1.0': {}
 
+<<<<<<< HEAD
   '@types/node@26.1.0':
+=======
+  '@types/node@26.0.1':
+>>>>>>> 9ebad23ce5df5920fcb8d5039ba57f5131b288f6
     dependencies:
       undici-types: 8.3.0
 
@@ -3100,10 +3129,17 @@ snapshots:
   '@unrs/resolver-binding-win32-x64-msvc@1.12.2':
     optional: true
 
+<<<<<<< HEAD
   '@vitejs/plugin-vue@6.0.7(vite@7.3.6(@types/node@26.1.0)(jiti@2.7.0)(lightningcss@1.32.0)(terser@5.48.0)(yaml@2.9.0))(vue@3.5.39(typescript@6.0.0-dev.20250807))':
     dependencies:
       '@rolldown/pluginutils': 1.0.1
       vite: 7.3.6(@types/node@26.1.0)(jiti@2.7.0)(lightningcss@1.32.0)(terser@5.48.0)(yaml@2.9.0)
+=======
+  '@vitejs/plugin-vue@6.0.7(vite@7.3.6(@types/node@26.0.1)(jiti@2.7.0)(lightningcss@1.32.0)(terser@5.48.0)(yaml@2.9.0))(vue@3.5.39(typescript@6.0.0-dev.20250807))':
+    dependencies:
+      '@rolldown/pluginutils': 1.0.1
+      vite: 7.3.6(@types/node@26.0.1)(jiti@2.7.0)(lightningcss@1.32.0)(terser@5.48.0)(yaml@2.9.0)
+>>>>>>> 9ebad23ce5df5920fcb8d5039ba57f5131b288f6
       vue: 3.5.39(typescript@6.0.0-dev.20250807)
 
   '@vue/compiler-core@3.5.39':
@@ -3877,7 +3913,11 @@ snapshots:
 
   jest-worker@27.5.1:
     dependencies:
+<<<<<<< HEAD
       '@types/node': 26.1.0
+=======
+      '@types/node': 26.0.1
+>>>>>>> 9ebad23ce5df5920fcb8d5039ba57f5131b288f6
       merge-stream: 2.0.0
       supports-color: 8.1.1
 
@@ -4338,14 +4378,22 @@ snapshots:
     dependencies:
       typescript: 6.0.0-dev.20250807
 
+<<<<<<< HEAD
   ts-node@10.9.2(@types/node@26.1.0)(typescript@6.0.0-dev.20250807):
+=======
+  ts-node@10.9.2(@types/node@26.0.1)(typescript@6.0.0-dev.20250807):
+>>>>>>> 9ebad23ce5df5920fcb8d5039ba57f5131b288f6
     dependencies:
       '@cspotcode/source-map-support': 0.8.1
       '@tsconfig/node10': 1.0.12
       '@tsconfig/node12': 1.0.11
       '@tsconfig/node14': 1.0.3
       '@tsconfig/node16': 1.0.4
+<<<<<<< HEAD
       '@types/node': 26.1.0
+=======
+      '@types/node': 26.0.1
+>>>>>>> 9ebad23ce5df5920fcb8d5039ba57f5131b288f6
       acorn: 8.17.0
       acorn-walk: 8.3.5
       arg: 4.1.3
@@ -4502,7 +4550,11 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
+<<<<<<< HEAD
   vite@7.3.6(@types/node@26.1.0)(jiti@2.7.0)(lightningcss@1.32.0)(terser@5.48.0)(yaml@2.9.0):
+=======
+  vite@7.3.6(@types/node@26.0.1)(jiti@2.7.0)(lightningcss@1.32.0)(terser@5.48.0)(yaml@2.9.0):
+>>>>>>> 9ebad23ce5df5920fcb8d5039ba57f5131b288f6
     dependencies:
       esbuild: 0.28.1
       fdir: 6.5.0(picomatch@4.0.4)
@@ -4511,7 +4563,11 @@ snapshots:
       rollup: 4.62.2
       tinyglobby: 0.2.17
     optionalDependencies:
+<<<<<<< HEAD
       '@types/node': 26.1.0
+=======
+      '@types/node': 26.0.1
+>>>>>>> 9ebad23ce5df5920fcb8d5039ba57f5131b288f6
       fsevents: 2.3.3
       jiti: 2.7.0
       lightningcss: 1.32.0
