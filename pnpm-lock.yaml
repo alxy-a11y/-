@@ -1204,8 +1204,13 @@ packages:
     resolution: {integrity: sha512-P8BjAsXvZS+VIDUI11hHCQEv74YT67YUi5JJFNWIqL235sBmjX4+qx9Muvls5ivyNENctx46xQLQ3aTuE7ssaQ==}
     engines: {node: '>=6'}
 
+<<<<<<< HEAD
   caniuse-lite@1.0.30001803:
     resolution: {integrity: sha512-g/uHREV2ZpK9qMalCsWaxmA6ol+DX8GYhuf3T40RKoP+oL7vhRJh8LNt73PCjpnR6l14FzfPrB5Yux4PKm2meg==}
+=======
+  caniuse-lite@1.0.30001802:
+    resolution: {integrity: sha512-vmv8ub2xwTNmljSKf82mtCk5JH7hC+YgzLj3P5zotvA0tPQ9016tdNNOG8WRca1IxOnhSsivB+J0z5FeE5LOUw==}
+>>>>>>> 9f42542b0815b4cf67f8b9a81b484596cb0edda3
 
   chalk@4.1.2:
     resolution: {integrity: sha512-oKnbhFyRIXpUuez8iBMmyEa4nbj4IOQyuhc/wy9kY7/WVPcwIO9VA668Pu8RkO7+0G76SLROeyw9CpQ061i4mA==}
@@ -3338,7 +3343,11 @@ snapshots:
   autoprefixer@10.5.2(postcss@8.5.16):
     dependencies:
       browserslist: 4.28.5
+<<<<<<< HEAD
       caniuse-lite: 1.0.30001803
+=======
+      caniuse-lite: 1.0.30001802
+>>>>>>> 9f42542b0815b4cf67f8b9a81b484596cb0edda3
       fraction.js: 5.3.4
       picocolors: 1.1.1
       postcss: 8.5.16
@@ -3394,7 +3403,11 @@ snapshots:
   browserslist@4.28.5:
     dependencies:
       baseline-browser-mapping: 2.10.42
+<<<<<<< HEAD
       caniuse-lite: 1.0.30001803
+=======
+      caniuse-lite: 1.0.30001802
+>>>>>>> 9f42542b0815b4cf67f8b9a81b484596cb0edda3
       electron-to-chromium: 1.5.388
       node-releases: 2.0.50
       update-browserslist-db: 1.2.3(browserslist@4.28.5)
@@ -3403,7 +3416,11 @@ snapshots:
 
   callsites@3.1.0: {}
 
+<<<<<<< HEAD
   caniuse-lite@1.0.30001803: {}
+=======
+  caniuse-lite@1.0.30001802: {}
+>>>>>>> 9f42542b0815b4cf67f8b9a81b484596cb0edda3
 
   chalk@4.1.2:
     dependencies:
