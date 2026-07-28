@@ -1315,8 +1315,13 @@ packages:
     resolution: {integrity: sha512-X07nttJQkwkfKfvTPG/KSnE2OMdcUCao6+eXF3wmnIQRn2aPAHH3VxDbDOdegkd6JbPsXqShpvEOHfAT+nCNwQ==}
     engines: {node: '>=0.3.1'}
 
+<<<<<<< HEAD
   electron-to-chromium@1.5.397:
     resolution: {integrity: sha512-khGTy9U9x02KEtsKM8vx5A62BsRmcOsIgDpWr1ImE32Ax8GxHGPHZf+Eu9H8zOOyHJnB0jTbseyTHbq2XCT8yw==}
+=======
+  electron-to-chromium@1.5.396:
+    resolution: {integrity: sha512-yHiw2Y3C3H9U6TMbOfoWK/BPreiOPXRfTWPBwQBoZG6/8TB6eOPnsy5oaRYuatR7Fw2SJ4kKforgufeo7fq0EQ==}
+>>>>>>> a036f583237b4ba9cd20c61d9c22708bbc2e2ddc
 
   emojis-list@3.0.0:
     resolution: {integrity: sha512-/kyM18EfinwXZbno9FyUGeFh87KC8HRQBQGildHZbEuRyWFOmv1U10o9BBp8XVZDVNNuQKyIGIu5ZYAAXJ0V2Q==}
@@ -3389,7 +3394,11 @@ snapshots:
     dependencies:
       baseline-browser-mapping: 2.11.5
       caniuse-lite: 1.0.30001806
+<<<<<<< HEAD
       electron-to-chromium: 1.5.397
+=======
+      electron-to-chromium: 1.5.396
+>>>>>>> a036f583237b4ba9cd20c61d9c22708bbc2e2ddc
       node-releases: 2.0.51
       update-browserslist-db: 1.2.3(browserslist@4.28.7)
 
@@ -3491,7 +3500,11 @@ snapshots:
 
   diff@4.0.4: {}
 
+<<<<<<< HEAD
   electron-to-chromium@1.5.397: {}
+=======
+  electron-to-chromium@1.5.396: {}
+>>>>>>> a036f583237b4ba9cd20c61d9c22708bbc2e2ddc
 
   emojis-list@3.0.0: {}
 
